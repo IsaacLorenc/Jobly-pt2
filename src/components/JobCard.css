@@ -1,0 +1,15 @@
+.job-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .job-card h2 {
+    margin-top: 0;
+  }
+  
+  .job-card p {
+    margin: 0.5rem 0;
+  }
